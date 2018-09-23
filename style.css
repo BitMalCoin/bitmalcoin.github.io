@@ -1,0 +1,41 @@
+body {
+	background:#efeddc;
+}
+
+.logo {
+
+	background:url(logo-bitmal.png) no-repeat; 
+	margin: 0 auto; 
+	width:300px; 
+	height:160px; 
+	margin-top:5%;
+}
+
+.text {
+	font-family: adelle-sans; 
+	text-align:center; 
+	margin:0 auto; 
+	color:4A4A4A; 
+	width:60%;
+	
+}
+
+.text h1 {
+font-size:26px; 
+font-weight:300; 
+text-transform: uppercase;
+}
+
+.text p {
+
+	font-size:20px;
+	font-weight:300; 
+ 
+}
+
+.video-intro {
+
+	margin: 0 auto; 
+	width: 61%; 
+	height:61.9%;"
+}
