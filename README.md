@@ -1,0 +1,1 @@
+# bitmalcoin.github.io
